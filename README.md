@@ -1,15 +1,14 @@
 # App
 
 This is a test application for react native
-that uses https://randomuser.me/documentation api
+that uses https://randomuser.me api
 it is impossible to have a better pagination since the api does not offer it, same thing happens with the sorting feature because it does not have, also because the api is unable to return the full count of result, is impossible to paginate by numbers.
 
 another apporach we could take is to ask for the full result set and then take care of it locally, a module was already added to specify only the fields we want to pull in src/services/randomUser.js
 
-Presentar una tabla de items que contenga los datos
-obtenidos de https://randomuser.me/
-
 ## Features
+
+✅ Feed has info from https://randomuser.me/
 
 ✅ Pagination
 
@@ -39,5 +38,12 @@ obtenidos de https://randomuser.me/
 
 ✅ Hard and high standards by inclusion of linting, module resolver, config files, structures file and assets naming conventions, import syntax, among others
 
+## Evidence
 
 Evidence is exposed under evidence folder
+
+## How to run it?
+* clone repository into your local
+* yarn
+* npx pod-install ios
+* yarn run ios or yarn run ios
