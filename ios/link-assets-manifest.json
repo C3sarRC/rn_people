@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/.DS_Store",
+      "sha1": "56f876e8259c66cf6c8acb02e9cbaa19ee4c2550"
+    },
+    {
+      "path": "src/assets/fonts/robotoCondensed/RobotoCondensed-Bold.ttf",
+      "sha1": "97289a9d7448164e46ea8b3107a24ac1807f6c0e"
+    },
+    {
+      "path": "src/assets/fonts/robotoCondensed/RobotoCondensed-BoldItalic.ttf",
+      "sha1": "f0a173d09db491392554fef10910933096161da1"
+    },
+    {
+      "path": "src/assets/fonts/robotoCondensed/RobotoCondensed-Italic.ttf",
+      "sha1": "67fd97d2073ac69972a1a9b03fc5ccffc3d41803"
+    },
+    {
+      "path": "src/assets/fonts/robotoCondensed/RobotoCondensed-Light.ttf",
+      "sha1": "b65ec310689040b32a54e62269e8b83e3c40f89e"
+    },
+    {
+      "path": "src/assets/fonts/robotoCondensed/RobotoCondensed-LightItalic.ttf",
+      "sha1": "b7741fa6d2c9bc559daf2c77c308e48a9f6f40dd"
+    },
+    {
+      "path": "src/assets/fonts/robotoCondensed/RobotoCondensed-Regular.ttf",
+      "sha1": "8e3b1c2ac207f652b67855020cf731cd600942f5"
+    }
+  ]
+}
